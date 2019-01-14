@@ -20,6 +20,8 @@ The Browser Client is a static website that connects to AWS IoT to get the repor
 
 ![browser-client](img/browser.png)
 
-### Alexa Skill
+### Alexa Skill (Coming Soon)
 
 The Alexa skill allows voice commands to turn on/off the led and/or change the color.
+
+**NOTE:** My previous Alexa skill was not a Smart Home skill and built on node.js v4.3, which has been deprecated by AWS Lambda.
