@@ -18,6 +18,8 @@ The software is written in mJS and runs using Mongoose-OS. The following boards/
 
 The Browser Client is a static website that connects to AWS IoT to get the reported state and to set a desired state. The buttons allow for on/off control as well as changing the color via the _desired_ state of the thing shadow.
 
+![browser-client](img/browser.png)
+
 ### Alexa Skill
 
 The Alexa skill allows voice commands to turn on/off the led and/or change the color.
