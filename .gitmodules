@@ -1,3 +1,7 @@
 [submodule "device/esp8266"]
 	path = device/esp8266
 	url = https://github.com/buzzsurfr/color-torch-device-esp8266.git
+
+[submodule "client/browser"]
+	path = client/browser
+	url = https://github.com/buzzsurfr/color-torch-browser.git
