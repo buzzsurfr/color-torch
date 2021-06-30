@@ -11,3 +11,6 @@
 [submodule "client/alexa-smart-home"]
 	path = client/alexa-smart-home
 	url = https://github.com/buzzsurfr/color-torch-alexa-smart-home.git
+[submodule "device/esp8266-old"]
+	path = device/esp8266-old
+	url = https://github.com/buzzsurfr/color-torch-device-esp8266-old.git
