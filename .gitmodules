@@ -5,3 +5,9 @@
 [submodule "client/browser"]
 	path = client/browser
 	url = https://github.com/buzzsurfr/color-torch-browser.git
+[submodule "client/alexa"]
+	path = client/alexa
+	url = https://github.com/buzzsurfr/color-torch-alexa.git
+[submodule "client/alexa-smart-home"]
+	path = client/alexa-smart-home
+	url = https://github.com/buzzsurfr/color-torch-alexa-smart-home.git
